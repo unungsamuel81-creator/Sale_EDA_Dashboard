@@ -10,7 +10,7 @@
 **Most passengers were young adults**, age 20-40.
 
 **Visual:**
-![Survival by Gender]( images/survival_rate_by_gender.png)
+![Survival Rate by Gender]( images/survival_rate_by_gender.png)
 ![Age Distribution]( images/age_distribution.png)
 ![Correlation Matrix]( images/correlation_heatmap.png)
 ![Fare by Class]( images/fare_by_class.png)
